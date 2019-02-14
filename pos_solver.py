@@ -3,7 +3,7 @@
 ###################################
 # CS B551 Fall 2018, Assignment #3
 #
-# Author: Patel (utpatel)
+# Author: Utsav Patel (utpatel)
 #
 # (Based on skeleton code by D. Crandall)
 #
